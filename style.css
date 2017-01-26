@@ -1,0 +1,17 @@
+button{
+    height:55px; 
+    width:100px; 
+    margin: 0px 55px; 
+    position:relative;
+    top:50%; 
+    left:100%;
+}
+
+.form-control{
+    height:55px; 
+    width:100px; 
+    margin: 10px 10px; 
+    position:relative;
+    top:50%; 
+    left:115%;
+}
